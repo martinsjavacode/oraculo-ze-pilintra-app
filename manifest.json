@@ -3,13 +3,13 @@
   "short_name": "Oráculo Zé",
   "description": "Plataforma de estudo e consulta do curso",
   "lang": "pt-BR",
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#1a1a2e",
   "theme_color": "#B3121F",
   "icons": [
     {
-      "src": "/logo.png",
+      "src": "logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
